@@ -1,0 +1,8 @@
+streamlit
+os
+dotenv
+langchain
+pandas
+re
+plotly
+scikit-learn
